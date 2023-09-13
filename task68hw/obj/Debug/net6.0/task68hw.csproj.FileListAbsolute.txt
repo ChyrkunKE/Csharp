@@ -1,0 +1,30 @@
+C:\Users\Lenovo\Desktop\Новая папка\seminar C# 2\task68hw\bin\Debug\net6.0\task68hw.exe
+C:\Users\Lenovo\Desktop\Новая папка\seminar C# 2\task68hw\bin\Debug\net6.0\task68hw.deps.json
+C:\Users\Lenovo\Desktop\Новая папка\seminar C# 2\task68hw\bin\Debug\net6.0\task68hw.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Новая папка\seminar C# 2\task68hw\bin\Debug\net6.0\task68hw.dll
+C:\Users\Lenovo\Desktop\Новая папка\seminar C# 2\task68hw\bin\Debug\net6.0\task68hw.pdb
+C:\Users\Lenovo\Desktop\Новая папка\seminar C# 2\task68hw\obj\Debug\net6.0\task68hw.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Новая папка\seminar C# 2\task68hw\obj\Debug\net6.0\task68hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Новая папка\seminar C# 2\task68hw\obj\Debug\net6.0\task68hw.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Новая папка\seminar C# 2\task68hw\obj\Debug\net6.0\task68hw.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Новая папка\seminar C# 2\task68hw\obj\Debug\net6.0\task68hw.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Новая папка\seminar C# 2\task68hw\obj\Debug\net6.0\task68hw.dll
+C:\Users\Lenovo\Desktop\Новая папка\seminar C# 2\task68hw\obj\Debug\net6.0\refint\task68hw.dll
+C:\Users\Lenovo\Desktop\Новая папка\seminar C# 2\task68hw\obj\Debug\net6.0\task68hw.pdb
+C:\Users\Lenovo\Desktop\Новая папка\seminar C# 2\task68hw\obj\Debug\net6.0\task68hw.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Новая папка\seminar C# 2\task68hw\obj\Debug\net6.0\ref\task68hw.dll
+C:\Users\Lenovo\Desktop\Новая папка\HWC#\task68hw\bin\Debug\net6.0\task68hw.exe
+C:\Users\Lenovo\Desktop\Новая папка\HWC#\task68hw\bin\Debug\net6.0\task68hw.deps.json
+C:\Users\Lenovo\Desktop\Новая папка\HWC#\task68hw\bin\Debug\net6.0\task68hw.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Новая папка\HWC#\task68hw\bin\Debug\net6.0\task68hw.dll
+C:\Users\Lenovo\Desktop\Новая папка\HWC#\task68hw\bin\Debug\net6.0\task68hw.pdb
+C:\Users\Lenovo\Desktop\Новая папка\HWC#\task68hw\obj\Debug\net6.0\task68hw.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Новая папка\HWC#\task68hw\obj\Debug\net6.0\task68hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Новая папка\HWC#\task68hw\obj\Debug\net6.0\task68hw.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Новая папка\HWC#\task68hw\obj\Debug\net6.0\task68hw.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Новая папка\HWC#\task68hw\obj\Debug\net6.0\task68hw.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Новая папка\HWC#\task68hw\obj\Debug\net6.0\task68hw.dll
+C:\Users\Lenovo\Desktop\Новая папка\HWC#\task68hw\obj\Debug\net6.0\refint\task68hw.dll
+C:\Users\Lenovo\Desktop\Новая папка\HWC#\task68hw\obj\Debug\net6.0\task68hw.pdb
+C:\Users\Lenovo\Desktop\Новая папка\HWC#\task68hw\obj\Debug\net6.0\task68hw.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Новая папка\HWC#\task68hw\obj\Debug\net6.0\ref\task68hw.dll
